@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mohsen Barzegar"
 title_separator          : "-"
-name                     : &name "Mohsen Barzegar"
+name                     : &name "MYour Name"
 description              : &description "personal description"
 url                      : https://mohsenbarzegar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -99,9 +99,9 @@ author:
   github           : "mohsenbarzegar"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "mohsen.barzegar_b"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mohsen-barzegar/"
+  linkedin         : "mohsen-barzegar"
   orcid            :
   pinterest        :
   soundcloud       :
